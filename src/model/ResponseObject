@@ -1,0 +1,7 @@
+class ResponseObjcet {
+    constructor(contact) {
+        this.contact = contact;
+    }
+}
+
+module.exports = ResponseObjcet;
